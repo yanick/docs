@@ -181,6 +181,7 @@ There are Handlebars implementations for many programming languages.
 - [C](https://github.com/jbboehr/handlebars.c)
 - [Go](https://github.com/aymerick/raymond)
 - [Java](https://github.com/jknack/handlebars.java)
+- [Perl](https://metacpan.org/pod/Text::Handlebars)
 - [PHP (LightnCandy)](https://github.com/zordius/lightncandy)
 - [Python](https://github.com/wbond/pybars3)
 - [Ruby](https://github.com/cowboyd/handlebars.rb)
